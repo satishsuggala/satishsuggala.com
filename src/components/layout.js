@@ -61,7 +61,7 @@ const Layout = ({ location, title, children }) => {
       <footer>
         © {new Date().getFullYear()}, Built with
         {` `}
-        <a href="https://www.gatsbyjs.org">Gatsby</a>
+        <a href="https://www.gatsbyjs.org">Gatsby</a>. Itne paise mein itna ich. Mumbai meri jaan.
       </footer>
     </div>
   )
