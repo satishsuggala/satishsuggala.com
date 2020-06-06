@@ -15,6 +15,6 @@ As for the purpose of me taking the effort to do this
 
 For those who care to know, this blog was setup using <a href="https://www.gatsbyjs.org/starters/gatsbyjs" target="_blank" rel="nofollow">gatsby-starter-blog</a> & <a href="https://www.gatsbyjs.org/starters/gatsbyjs/" target="_blank" rel="nofollow">netlify</a>. Was able to do it in under an hour and FOR FREE! What sorcery is this i dont even. Mad props. If not for them, I'd still be spending time making PHP7 talk to nginx & mysql while figuring out the right SEO plugin. Done is decidedly better than perfect.
 
-Also, I'll be going from being @MindYoghurt on Twitter for 10+ years to my full name. I no longer have the Engineering undergrad angst I did when I set this up. Also, back in the early days of Twitter, I had @satish for a couple of weeks. Do I regret giving that up for being the English version of "Dimaag ka Dahi"? Nope. Not one bit.
+Also, I'll be going from being @MindYoghurt on Twitter for 10+ years to my full name. I no longer have the Engineering undergrad angst I did when I decided that my angst would make for good humour. Also, back in the early days of Twitter, I had @satish for a couple of weeks. Do I regret giving that up for being the English version of "Dimaag ka Dahi"? Nope. Not one bit.
 
 See you around!
